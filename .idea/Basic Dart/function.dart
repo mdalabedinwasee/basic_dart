@@ -14,7 +14,7 @@ void main() {
 
 // return-type func-name(params) {}
 // Parameters
-void welcomeMessage(String name, String address, {int age = 0}) {
+welcomeMessage(String name, String address, {int age = 0}) {
   print('Welcome to team, $name');
   print('Take your laptop');
   print('Take your Id');

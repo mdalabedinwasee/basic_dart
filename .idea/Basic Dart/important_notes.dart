@@ -1,6 +1,6 @@
 /* Serial list
   1.hello_world, 2.variables, 3.list_example, 4.set_example, 5.map_example, 6.constant, 7.operators, 8.type_casting, 9.string_interpolation,
-   10.if-else, 11.function, 12.switch, 13., 14., 15., 16., 17., 18.,
+   10.if-else, 11.function, 12.switch, 13.for_loop, 14.null_safety, 15.exception_handling,
  */
 
 // var / dynamic kokhono use kora jabe na.
